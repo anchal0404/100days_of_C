@@ -44,5 +44,5 @@ int main(int argc, char const *argv[])
     {
         printf("%d is neither odd nor even",num);
     }
-    return 0; //Successfull execution of program without any error.
+    return 0; //Successful execution of program without any error.
 }
