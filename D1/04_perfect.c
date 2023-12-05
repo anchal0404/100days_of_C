@@ -16,7 +16,6 @@ int main(int argc, char const *argv[])
     {
         if (num%i==0)
         {
-            /* code */
             sum+=i;
         }
         else
@@ -26,8 +25,7 @@ int main(int argc, char const *argv[])
     }
     if (sum==num)
     {
-        /* code */
-        printf("Yes,entered number is perfect number.\n");
+       printf("Yes,entered number is perfect number.\n");
     }
     else
     {
