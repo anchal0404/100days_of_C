@@ -1,6 +1,6 @@
 /*
 Name:Anchal Rathore
-Description: 
+Description: Check if a number is Palindrome
 Date:
 Sample INPUT and OUTPUT:
 */

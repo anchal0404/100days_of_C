@@ -1,8 +1,13 @@
 /*
 Name:Anchal Rathore
-Description: 
+Description: Program to count vowels in a string (Iterative and Recursive)
 Date:
 Sample INPUT and OUTPUT:
+Input : abc de
+Output : 2
+
+Input : geeksforgeeks portal
+Output : 7
 */
 #include<stdio.h>
 int main(int argc, char const *argv[])
