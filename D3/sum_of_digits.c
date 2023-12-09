@@ -1,8 +1,10 @@
 /*
 Name:Anchal Rathore
-Description: 
-Date:
+Description: Program for Sum of the digits of a given number
+Date:08/12/2023
 Sample INPUT and OUTPUT:
+Enter the number:687
+Sum = 21
 */
 #include<stdio.h>
 int main(int argc, char const *argv[])
