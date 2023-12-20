@@ -5,15 +5,12 @@ Name:Anchal Rathore
 Description: Students Marks Sum
 Date:10/12/2023
 Sample INPUT and OUTPUT:
-Sample Input 0
-
 3
 3
 2
 5
 b
-Sample Output 0
-
+Output 
 8
 */
 #include <math.h>
