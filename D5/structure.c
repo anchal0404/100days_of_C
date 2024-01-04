@@ -1,8 +1,11 @@
 /*
 Name:Anchal Rathore
-Description: 
-Date:
+Description: Printing  structure of Students
+Date:20.12.2023
 Sample INPUT and OUTPUT:
+S1 : 2 33.40 Anchal
+S2 : 4 22.00 Lila
+S3 : 6 55.00 Kilo
 */
 #include<stdio.h>
 struct Student
